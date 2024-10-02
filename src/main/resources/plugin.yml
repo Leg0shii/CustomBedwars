@@ -1,0 +1,8 @@
+name: BedwarsCustom
+version: '${project.version}'
+main: de.legoshi.bedwarscustom.Main
+api-version: 1.17
+authors: [ Legoshi ]
+description: Custom Bedwars Plugin for Minimichecker
+commands:
+  bw:
